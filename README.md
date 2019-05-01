@@ -3,4 +3,4 @@
 Main profile page
 
 ### References
-Thanks to work done by html5up.net!
+Thanks to design from html5 up!
